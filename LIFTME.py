@@ -8,5 +8,4 @@ for x in range(t):
         count+=abs(c-a)
         count+=abs(b-a)
         c=b
-
     print(count)
