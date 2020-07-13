@@ -13,6 +13,7 @@ for _ in  range(t):
             d+=arr2[i]
             if c==d:
                 ans+=(c-a)
+                
         else:
             c += arr1[i]
             d += arr2[i]
