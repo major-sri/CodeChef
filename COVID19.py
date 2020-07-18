@@ -13,3 +13,4 @@ for _ in range(t):
             c=1
     a.append(c)
     print(min(a),max(a))
+    
