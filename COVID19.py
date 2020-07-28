@@ -12,5 +12,6 @@ for _ in range(t):
             a.append(c)
             c=1
     a.append(c)
+    
     print(min(a),max(a))
     
