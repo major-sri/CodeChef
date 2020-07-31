@@ -15,3 +15,4 @@ for _ in range(t):
     
     print(min(a),max(a))
     
+    
