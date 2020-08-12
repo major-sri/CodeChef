@@ -17,3 +17,4 @@ for _ in range(t):
             if x > case:
                 cnt+=x-case
         print(cnt)# cook your dish here
+        
