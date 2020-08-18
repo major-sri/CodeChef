@@ -18,6 +18,7 @@ for _ in range(t):
                 cnt+=x-case
         print(cnt)# cook your dish here
         
+        
 
         
         
