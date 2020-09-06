@@ -19,6 +19,7 @@ for _ in range(t):
         print(cnt)# cook your dish here
         
         
+        
 
         
         
